@@ -22,7 +22,7 @@ function App() {
   };
   return (
     <React.Fragment>
-      <div className="outer-div">
+      <div className="outer-div-main">
         <div className="container">
           <h1>Counter App (React)</h1>
           <div className="button-row">
